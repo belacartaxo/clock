@@ -75,3 +75,10 @@ body{
     width: 4px;
     height: 28%;
 }
+
+@media (max-width:460px) {
+    .clock{
+        width: 280px;
+        height: 280px;
+    }
+}
